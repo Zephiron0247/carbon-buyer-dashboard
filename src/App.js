@@ -13,7 +13,7 @@ function App() {
           justifyContent: "space-between", alignItems: "center"
         }}>
           <span style={{ fontSize: "20px", fontWeight: "bold" }}>
-            🏭 Adani Ports — Carbon Credit Marketplace
+            🏭 Pranaq — Carbon Credit Marketplace
           </span>
           <div style={{ display: "flex", gap: "20px" }}>
             <a href="/" style={{ color: "white", textDecoration: "none" }}>Marketplace</a>
