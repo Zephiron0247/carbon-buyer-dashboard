@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://127.0.0.1:8000",
+  baseURL: "https://carbon-credit-backend-yory.onrender.com",
 });
 
 export const BUYER_WALLET = "0x9189C870dc3491210552e58496448faf1BDd89bC";
